@@ -1,6 +1,6 @@
-const nameGirl = 'Hi Em (LầnN)';
+const nameGirl = '(Lần N+1)';
 const giftUrl = 'https://www.facebook.com/nam.nguyenthehoai.3';
-const eventName = 'Happy Birthday';
+const eventName = 'Hi Em';
 const titleCard = 'Gửi ngàn lời chúc';
 const contentCard = 'Chúc mừng sinh nhật em. Mong mọi điều tốt đẹp nhất sẽ đến với em.';
 
