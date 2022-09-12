@@ -1,8 +1,8 @@
-const nameGirl = 'Nhung';
+const nameGirl = 'Hi Em (LầnN)';
 const giftUrl = 'https://www.facebook.com/nam.nguyenthehoai.3';
 const eventName = 'Happy Birthday';
 const titleCard = 'Gửi ngàn lời chúc';
-const contentCard = 'Chúc Nhung có một ngày sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với Nhung trong hôm nay và cả những ngày sau.';
+const contentCard = 'Chúc mừng sinh nhật em. mong mọi điều tốt đẹp nhất sẽ đến với em.';
 
 const giftImage = 'hot-girl.jpg';
 const base64 = '';
