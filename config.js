@@ -1,9 +1,9 @@
-const nameGirl = '(Lần N+1)';
-const giftUrl = 'https://www.facebook.com/nam.nguyenthehoai.3';
-const eventName = 'Hi Em';
+const nameGirl = '20/10 ';
+const giftUrl = '';
+const eventName = 'Chúc Mừng';
 const titleCard = 'Gửi ngàn lời chúc';
-const contentCard = 'Chúc mừng sinh nhật em. Mong mọi điều tốt đẹp nhất sẽ đến với em.';
+const contentCard = 'Nhân ngày 20/10 ý nghĩa, con xin chúc bà mẹ và các dì thật mạnh khỏe, luôn vui tươi trong cuộc sống :';
 
-const giftImage = 'hot-girl.png';
+const giftImage = '20102022.png';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
