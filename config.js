@@ -1,9 +1,9 @@
 const nameGirl = '20/10 ';
 const giftUrl = '';
-const eventName = 'Chúc Mừng';
-const titleCard = 'Gửi ngàn lời chúc';
-const contentCard = 'Nhân ngày 20/10 ý nghĩa, con xin chúc bà mẹ và các dì thật mạnh khỏe, luôn vui tươi trong cuộc sống :';
+const eventName = 'Thật tuyệt';
+const titleCard = 'Những Lời ngọt ngào';
+const contentCard = 'Chúc tất cả những điều tuyệt vời và ngọt ngào nhất sẽ đến với loan.Hãy thật vui vẻ loan nhé <3';
 
-const giftImage = '20102022.png';
+const giftImage = 'loan.jpg';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
